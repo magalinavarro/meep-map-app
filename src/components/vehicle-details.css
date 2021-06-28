@@ -1,0 +1,25 @@
+.vehicle-details-title {
+  font-size: 15px;
+  padding-left: 14%;
+}
+
+.details-container {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.vehicle-details-subtitle {
+  font-size: 15px;
+  padding-left: 10%;
+}
+
+.vehicle-details-info {
+  font-size: 13px;
+  padding-left: 10%;
+  color: lightslategrey;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}

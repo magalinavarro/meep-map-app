@@ -1,0 +1,17 @@
+.nav-item:hover{
+  background-color: white;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+a {
+  color: #e69635! important;
+}
+
+ul {
+  border-top: solid 1px lightgray;
+  padding-top: 10px;
+  border-bottom: solid 1px lightgray;
+  padding-bottom: 10px;
+}
